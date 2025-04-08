@@ -33,7 +33,7 @@ const Useffect4 = () => {
         setinterval function do not stop rerender after closing or commented the
         component. To stop this auto rerender use clearinterval. For this assign
         the setinterval in a variable and pass the variable in clearinterval.
-        Now unmount or commented the component the interval stopped
+        Now unmount or commented the component the interval stopped.
       </p>
     </div>
   );
