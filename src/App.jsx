@@ -17,7 +17,9 @@ function App() {
         <li>
           <Useeffect3></Useeffect3>
         </li>
-        <li>{/* <Useffect4></Useffect4> */}</li>
+        <li>
+          <Useffect4></Useffect4>
+        </li>
       </ol>
     </>
   );

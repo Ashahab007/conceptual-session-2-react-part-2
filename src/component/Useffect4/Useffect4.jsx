@@ -22,6 +22,7 @@ const Useffect4 = () => {
         <li>update/ re-render -- [state, state2]</li>
         <li>unmount</li>
       </ol>
+      <p>rerender undergoes = 1.unmount ==> 2.update ==> 3.mount </p>
       <p>
         Note: From upper lifecycle, we see that for first time mount/ render we
         pass [] in dependency. For update/ re-render which state should be use
